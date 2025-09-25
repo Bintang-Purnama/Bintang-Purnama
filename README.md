@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Bintang-Purnama](https://github.com/Bintang-Purnama)
 
-- 💬 Ask me about **Python , SQL , Machine Learning , Data Science**
+- 💬 Ask me about **Python , SQL , Machine Learning , Data Science , GIT**
 
 - 📫 How to reach me **bintangpurnama31494@gmail.com**
 
